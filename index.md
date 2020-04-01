@@ -1,13 +1,11 @@
 Subdomain take over for COMP90074 :) 
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
-<h2>JavaScript addEventListener()</h2>
 
-<p>This example uses the addEventListener() method to attach a click event to a button.</p>
-
+Click this button and see what happend!
 <button id="myBtn">Try it</button>
 
 <script>
