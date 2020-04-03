@@ -5,7 +5,7 @@ Subdomain take over for COMP90074 :)
 <body>
 
 
-Click this button and see what happend!
+Click this button and see what happens!
 <button id="myBtn">Try it</button>
 
 <script>
